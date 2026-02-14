@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\In4Suite Expenses.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\In4Suite Expenses\Repository\In4Suite Expenses.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a1f06a0-7785-b9c1-34ee-cadac625162b</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>f009418c-2f0a-4b49-a600-fd326101d627</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>

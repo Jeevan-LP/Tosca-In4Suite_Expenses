@@ -1,0 +1,33 @@
+[3] 10:40:09 AM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\In4Suite Expenses\In4Suite Expenses.tws'
+[3] 10:40:09 AM: Log level: 4
+[3] 10:40:09 AM: Release: 16.0.0.3027
+[3] 10:40:10 AM: Execution Approval is disabled.
+[3] 10:40:10 AM: No service discovery configured.
+[3] 10:40:10 AM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 10:40:10 AM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 10:40:10 AM: Searcher found 0 results in 146.6444 ms
+[3] 10:40:10 AM:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 10:40:10 AM:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 10:40:10 AM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\In4Suite Expenses\In4Suite Expenses.tws'
+[4] 10:40:14 AM:  ShowStatusInfo: 'Ready'
+[3] 10:40:23 AM: Layout not saved: No Panels or Tabbed Documents
+[3] 10:40:31 AM: Closing Workspace!
+[3] 10:40:31 AM: Log closed!

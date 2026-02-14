@@ -1,0 +1,778 @@
+[3] 06:10:21 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\In4Suite Expenses\In4Suite Expenses.tws'
+[3] 06:10:21 PM: Log level: 4
+[3] 06:10:21 PM: Release: 16.0.0.3027
+[3] 06:10:22 PM: Execution Approval is disabled.
+[3] 06:10:22 PM: No service discovery configured.
+[3] 06:10:22 PM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 06:10:22 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 06:10:22 PM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 06:10:22 PM:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 06:10:22 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 06:10:22 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 06:10:22 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 06:10:22 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 06:10:22 PM: Searcher found 0 results in 143.2514 ms
+[3] 06:10:23 PM:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 06:10:23 PM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 06:10:23 PM:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 06:10:23 PM:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 06:10:23 PM:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 06:10:23 PM:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 06:10:23 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 06:10:23 PM:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 06:10:23 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 06:10:23 PM:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 06:10:23 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 06:10:23 PM:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 06:10:23 PM:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 06:10:23 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\In4Suite Expenses\In4Suite Expenses.tws'
+[4] 06:10:31 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:10:31 PM:  ShowStatusInfo: 'Ready'
+[4] 06:10:31 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:10:31 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:10:31 PM:  ShowStatusInfo: 'Ready'
+[4] 06:10:31 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:10:31 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:10:31 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:10:31 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:10:31 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:10:31 PM:  ShowStatusInfo: 'Ready'
+[4] 06:10:31 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:10:31 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:10:31 PM:  ShowStatusInfo: 'Ready'
+[4] 06:10:31 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:10:31 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:10:32 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:10:32 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:10:32 PM:  ShowStatusInfo: 'Ready'
+[4] 06:10:32 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:10:32 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:10:32 PM:  ShowStatusInfo: 'Ready'
+[4] 06:10:32 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:10:32 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:10:32 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 06:10:32 PM: OpenWorkspace took 00:00:12.9013539 to finish
+[2] 06:10:32 PM: Common repository is not available
+[4] 06:10:33 PM:  ShowStatusInfo: 'Ready'
+[4] 06:11:14 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:11:14 PM:  ShowStatusInfo: 'Ready'
+[3] 06:11:15 PM: Task 'Create Folder' started on '/TestCases'
+[4] 06:11:15 PM:  ShowStatusInfo: 'Create Folder'
+[4] 06:11:15 PM:  ShowStatusInfo: 'Ready'
+[4] 06:11:15 PM:  ShowStatusInfo: 'Folder finalizing ... '
+[4] 06:11:15 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:11:15 PM:  ShowStatusInfo: 'Ready'
+[4] 06:11:15 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:11:15 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:11:15 PM:  ShowStatusInfo: 'Ready'
+[4] 06:11:15 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:11:15 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:11:15 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:11:15 PM:  ShowStatusInfo: 'Folder finished'
+[3] 06:11:15 PM: Task 'Create Folder' finished
+[4] 06:11:15 PM:  ShowStatusInfo: 'Ready'
+[4] 06:11:33 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:11:33 PM:  ShowStatusInfo: 'Ready'
+[3] 06:11:35 PM: Task 'Create TestCase' started on '/TestCases/Demo'
+[4] 06:11:35 PM:  ShowStatusInfo: 'Create TestCase'
+[4] 06:11:35 PM:  ShowStatusInfo: 'Ready'
+[4] 06:11:35 PM:  ShowStatusInfo: 'TestCase finalizing ... '
+[4] 06:11:35 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:11:35 PM:  ShowStatusInfo: 'Ready'
+[4] 06:11:35 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:11:35 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:11:35 PM:  ShowStatusInfo: 'Ready'
+[4] 06:11:35 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:11:35 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:11:35 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:11:35 PM:  ShowStatusInfo: 'TestCase finished'
+[3] 06:11:35 PM: Task 'Create TestCase' finished
+[4] 06:11:35 PM:  ShowStatusInfo: 'Ready'
+[4] 06:11:50 PM:  ShowStatusInfo: 'Saving ...'
+[3] 06:11:50 PM:  Save started!
+[3] 06:11:50 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 06:11:50 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 06:11:50 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 06:11:50 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 06:11:50 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 06:11:50 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 06:11:51 PM:  Save finished!
+[4] 06:11:51 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 06:11:51 PM:  ShowStatusInfo: 'Ready'
+[4] 06:11:52 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:11:54 PM:  ShowStatusInfo: '2 objects selected'
+[4] 06:11:54 PM:  ShowStatusInfo: '3 objects selected'
+[4] 06:11:55 PM:  ShowStatusInfo: '4 objects selected'
+[4] 06:11:56 PM:  ShowStatusInfo: '5 objects selected'
+[4] 06:11:57 PM:  ShowStatusInfo: 'Ready'
+[4] 06:11:57 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:11:57 PM:  ShowStatusInfo: 'Ready'
+[4] 06:11:58 PM:  ShowStatusInfo: '2 objects selected'
+[4] 06:11:59 PM:  ShowStatusInfo: '3 objects selected'
+[4] 06:11:59 PM:  ShowStatusInfo: '4 objects selected'
+[4] 06:12:00 PM:  ShowStatusInfo: '5 objects selected'
+[4] 06:12:00 PM:  ShowStatusInfo: '6 objects selected'
+[4] 06:12:01 PM:  ShowStatusInfo: '7 objects selected'
+[3] 06:12:03 PM: Task 'Copy' started on
+ 1: '/TestCases/Expenses/PreCondtion'
+ 2: '/TestCases/Expenses/Work Order'
+ 3: '/TestCases/Expenses/Advance'
+ 4: '/TestCases/Expenses/Debit Note'
+ 5: '/TestCases/Expenses/Debit Note Receipt'
+ 6: '/TestCases/Expenses/Payment'
+ 7: '/TestCases/Expenses/PostCondtion'
+[4] 06:12:03 PM:  ShowStatusInfo: 'Copy'
+[4] 06:12:03 PM:  ShowStatusInfo: 'Copy finalizing ... '
+[4] 06:12:03 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:12:03 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:03 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:12:03 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:12:03 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:03 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:12:03 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:12:03 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:12:03 PM:  ShowStatusInfo: 'Copy finished'
+[3] 06:12:03 PM: Task 'Copy' finished
+[4] 06:12:04 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:12:04 PM:  ShowStatusInfo: 'Ready'
+[3] 06:12:04 PM: Task 'Paste' started on '/TestCases/Demo/In4suite'
+[4] 06:12:04 PM:  ShowStatusInfo: 'Paste'
+[4] 06:12:04 PM:  ShowStatusInfo: 'Paste is not allowed on selected object(s)'
+[4] 06:12:04 PM:  ShowStatusInfo: 'Paste finalizing ... '
+[4] 06:12:04 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:12:04 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:04 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:12:04 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:12:04 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:04 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:12:04 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:12:04 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:12:04 PM:  ShowStatusInfo: 'Paste finished'
+[3] 06:12:04 PM: Task 'Paste' finished
+[4] 06:12:06 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:12:06 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:08 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:12:08 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:09 PM:  ShowStatusInfo: '2 objects selected'
+[4] 06:12:10 PM:  ShowStatusInfo: '3 objects selected'
+[4] 06:12:10 PM:  ShowStatusInfo: '4 objects selected'
+[4] 06:12:11 PM:  ShowStatusInfo: '5 objects selected'
+[4] 06:12:11 PM:  ShowStatusInfo: '6 objects selected'
+[4] 06:12:12 PM:  ShowStatusInfo: '7 objects selected'
+[3] 06:12:13 PM: Task 'Copy' started on
+ 1: '/TestCases/Expenses/PreCondtion'
+ 2: '/TestCases/Expenses/Work Order'
+ 3: '/TestCases/Expenses/Advance'
+ 4: '/TestCases/Expenses/Debit Note'
+ 5: '/TestCases/Expenses/Debit Note Receipt'
+ 6: '/TestCases/Expenses/Payment'
+ 7: '/TestCases/Expenses/PostCondtion'
+[4] 06:12:13 PM:  ShowStatusInfo: 'Copy'
+[4] 06:12:13 PM:  ShowStatusInfo: 'Copy finalizing ... '
+[4] 06:12:13 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:12:13 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:13 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:12:13 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:12:13 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:13 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:12:13 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:12:13 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:12:13 PM:  ShowStatusInfo: 'Copy finished'
+[3] 06:12:13 PM: Task 'Copy' finished
+[4] 06:12:14 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:12:14 PM:  ShowStatusInfo: 'Ready'
+[3] 06:12:15 PM: Task 'Paste' started on '/TestCases/Demo/In4suite'
+[4] 06:12:15 PM:  ShowStatusInfo: 'Paste'
+[4] 06:12:15 PM:  ShowStatusInfo: 'Paste is not allowed on selected object(s)'
+[4] 06:12:15 PM:  ShowStatusInfo: 'Paste finalizing ... '
+[4] 06:12:15 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:12:15 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:15 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:12:15 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:12:15 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:15 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:12:15 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:12:15 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:12:15 PM:  ShowStatusInfo: 'Paste finished'
+[3] 06:12:15 PM: Task 'Paste' finished
+[4] 06:12:17 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:12:18 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:18 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:12:18 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:20 PM:  ShowStatusInfo: ''
+[4] 06:12:20 PM:  ShowStatusInfo: 'Move'
+[4] 06:12:20 PM:  ShowStatusInfo: ''
+[4] 06:12:21 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:22 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:12:22 PM:  ShowStatusInfo: 'Ready'
+[3] 06:12:25 PM: Task 'Create Folder' started on '/TestCases/Demo/In4suite'
+[4] 06:12:25 PM:  ShowStatusInfo: 'Create Folder'
+[4] 06:12:25 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:25 PM:  ShowStatusInfo: 'Folder finalizing ... '
+[4] 06:12:25 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:12:25 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:25 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:12:25 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:12:25 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:25 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:12:25 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:12:25 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:12:25 PM:  ShowStatusInfo: 'Folder finished'
+[3] 06:12:25 PM: Task 'Create Folder' finished
+[4] 06:12:25 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:29 PM:  ShowStatusInfo: ''
+[4] 06:12:29 PM:  ShowStatusInfo: 'Move'
+[4] 06:12:30 PM:  ShowStatusInfo: ''
+[4] 06:12:31 PM:  ShowStatusInfo: 'Move'
+[4] 06:12:32 PM:  ShowStatusInfo: 'Move finalizing ... '
+[4] 06:12:32 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:12:32 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:32 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:12:32 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:12:32 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:32 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:12:32 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:12:32 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:12:32 PM:  ShowStatusInfo: 'Move finished'
+[3] 06:12:32 PM: Task 'Move' finished
+[4] 06:12:32 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:32 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:12:32 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:32 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:12:32 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:12:32 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:32 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:12:32 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:12:32 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 06:12:34 PM: Perform Undo(Move)
+[4] 06:12:34 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:12:34 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:34 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:12:34 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:12:34 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:34 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:12:34 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:12:34 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:12:35 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:36 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:12:36 PM:  ShowStatusInfo: 'Ready'
+[3] 06:12:38 PM: Task 'Copy' started on '/TestCases/Expenses/PreCondtion'
+[4] 06:12:38 PM:  ShowStatusInfo: 'Copy'
+[4] 06:12:38 PM:  ShowStatusInfo: 'Copy finalizing ... '
+[4] 06:12:38 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:12:38 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:12:38 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:12:38 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:38 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:12:38 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:12:38 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:12:38 PM:  ShowStatusInfo: 'Copy finished'
+[3] 06:12:38 PM: Task 'Copy' finished
+[4] 06:12:38 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:12:39 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:39 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:12:39 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:42 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:12:42 PM:  ShowStatusInfo: 'Ready'
+[3] 06:12:43 PM: Task 'Copy' started on '/TestCases/Expenses/PreCondtion'
+[4] 06:12:43 PM:  ShowStatusInfo: 'Copy'
+[4] 06:12:43 PM:  ShowStatusInfo: 'Copy finalizing ... '
+[4] 06:12:43 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:12:43 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:12:43 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:12:43 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:43 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:12:43 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:12:43 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:12:43 PM:  ShowStatusInfo: 'Copy finished'
+[3] 06:12:43 PM: Task 'Copy' finished
+[4] 06:12:43 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:12:43 PM:  ShowStatusInfo: 'Ready'
+[3] 06:12:44 PM: Task 'Paste' started on '/TestCases/Demo/In4suite'
+[4] 06:12:44 PM:  ShowStatusInfo: 'Paste'
+[4] 06:12:44 PM:  ShowStatusInfo: 'Paste is not allowed on selected object(s)'
+[4] 06:12:44 PM:  ShowStatusInfo: 'Paste finalizing ... '
+[4] 06:12:44 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:12:44 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:44 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:12:44 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:12:44 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:44 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:12:44 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:12:44 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:12:44 PM:  ShowStatusInfo: 'Paste finished'
+[3] 06:12:44 PM: Task 'Paste' finished
+[4] 06:12:45 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:46 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:12:46 PM:  ShowStatusInfo: 'Ready'
+[4] 06:12:47 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:12:47 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:01 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:13:01 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:02 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:13:02 PM:  ShowStatusInfo: 'Ready'
+[3] 06:13:06 PM: Task 'Create Folder' started on '/TestCases/Demo/In4suite'
+[4] 06:13:06 PM:  ShowStatusInfo: 'Create Folder'
+[4] 06:13:06 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:06 PM:  ShowStatusInfo: 'Folder finalizing ... '
+[4] 06:13:06 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:13:06 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:06 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:13:06 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:13:06 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:06 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:13:06 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:13:06 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:13:06 PM:  ShowStatusInfo: 'Folder finished'
+[3] 06:13:06 PM: Task 'Create Folder' finished
+[4] 06:13:06 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:16 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:13:16 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:17 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:13:17 PM:  ShowStatusInfo: 'Ready'
+[3] 06:13:19 PM: Task 'Create Folder' started on '/TestCases/Demo/In4suite'
+[4] 06:13:19 PM:  ShowStatusInfo: 'Create Folder'
+[4] 06:13:19 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:19 PM:  ShowStatusInfo: 'Folder finalizing ... '
+[4] 06:13:19 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:13:19 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:19 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:13:19 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:13:19 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:19 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:13:19 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:13:19 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:13:19 PM:  ShowStatusInfo: 'Folder finished'
+[3] 06:13:19 PM: Task 'Create Folder' finished
+[4] 06:13:19 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:36 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:13:37 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:37 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:13:37 PM:  ShowStatusInfo: 'Ready'
+[3] 06:13:38 PM: Task 'Create Folder' started on '/TestCases/Demo/In4suite'
+[4] 06:13:38 PM:  ShowStatusInfo: 'Create Folder'
+[4] 06:13:38 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:38 PM:  ShowStatusInfo: 'Folder finalizing ... '
+[4] 06:13:38 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:13:38 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:13:38 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:13:38 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:38 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:13:38 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:13:38 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:13:38 PM:  ShowStatusInfo: 'Folder finished'
+[3] 06:13:38 PM: Task 'Create Folder' finished
+[4] 06:13:38 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:48 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:13:48 PM:  ShowStatusInfo: 'Ready'
+[3] 06:13:48 PM: Task 'Copy' started on '/TestCases/Demo/In4suite/Debit Note'
+[4] 06:13:48 PM:  ShowStatusInfo: 'Copy'
+[4] 06:13:48 PM:  ShowStatusInfo: 'Copy finalizing ... '
+[4] 06:13:48 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:13:48 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:48 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:13:48 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:13:48 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:48 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:13:48 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:13:48 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:13:48 PM:  ShowStatusInfo: 'Copy finished'
+[3] 06:13:48 PM: Task 'Copy' finished
+[4] 06:13:49 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:13:50 PM:  ShowStatusInfo: 'Ready'
+[3] 06:13:50 PM: Task 'Paste' started on '/TestCases/Demo/In4suite'
+[4] 06:13:50 PM:  ShowStatusInfo: 'Paste'
+[4] 06:13:50 PM:  ShowStatusInfo: 'Paste finalizing ... '
+[4] 06:13:50 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:13:50 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:50 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:13:50 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:13:50 PM:  ShowStatusInfo: 'Ready'
+[4] 06:13:50 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:13:50 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:13:50 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:13:50 PM:  ShowStatusInfo: 'Paste finished'
+[3] 06:13:50 PM: Task 'Paste' finished
+[4] 06:13:51 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:13:51 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:00 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:14:00 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:00 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:14:00 PM:  ShowStatusInfo: 'Ready'
+[3] 06:14:02 PM: Task 'Create Folder' started on '/TestCases/Demo/In4suite'
+[4] 06:14:02 PM:  ShowStatusInfo: 'Create Folder'
+[4] 06:14:02 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:02 PM:  ShowStatusInfo: 'Folder finalizing ... '
+[4] 06:14:02 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:14:02 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:02 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:14:02 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:14:02 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:02 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:14:02 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:14:02 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:14:02 PM:  ShowStatusInfo: 'Folder finished'
+[3] 06:14:02 PM: Task 'Create Folder' finished
+[4] 06:14:02 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:07 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:14:08 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:10 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:14:10 PM:  ShowStatusInfo: 'Ready'
+[3] 06:14:12 PM: Task 'Create Folder' started on '/TestCases/Demo/In4suite'
+[4] 06:14:12 PM:  ShowStatusInfo: 'Create Folder'
+[4] 06:14:12 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:12 PM:  ShowStatusInfo: 'Folder finalizing ... '
+[4] 06:14:12 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:14:12 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:12 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:14:12 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:14:12 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:12 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:14:12 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:14:12 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:14:12 PM:  ShowStatusInfo: 'Folder finished'
+[3] 06:14:12 PM: Task 'Create Folder' finished
+[4] 06:14:12 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:18 PM:  ShowStatusInfo: 'Saving ...'
+[3] 06:14:18 PM:  Save started!
+[3] 06:14:18 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 06:14:18 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 06:14:18 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 06:14:18 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 06:14:18 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 06:14:18 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 06:14:19 PM:  Save finished!
+[4] 06:14:19 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 06:14:19 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:28 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:14:28 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:29 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:14:29 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:33 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:14:37 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:49 PM:  ShowStatusInfo: 'Saving ...'
+[3] 06:14:49 PM:  Save started!
+[3] 06:14:49 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 06:14:49 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 06:14:49 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 06:14:49 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 06:14:49 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 06:14:49 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 06:14:50 PM:  Save finished!
+[4] 06:14:50 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 06:14:50 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:51 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:14:51 PM:  ShowStatusInfo: 'Ready'
+[4] 06:14:57 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:14:57 PM:  ShowStatusInfo: 'Ready'
+[4] 06:15:14 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:15:14 PM:  ShowStatusInfo: 'Ready'
+[4] 06:15:18 PM:  ShowStatusInfo: 'Saving ...'
+[3] 06:15:19 PM:  Save started!
+[3] 06:15:19 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 06:15:19 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 06:15:19 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 06:15:19 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 06:15:19 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 06:15:19 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 06:15:19 PM:  Save finished!
+[4] 06:15:19 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 06:15:19 PM:  ShowStatusInfo: 'Ready'
+[4] 06:15:20 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:15:20 PM:  ShowStatusInfo: 'Ready'
+[4] 06:15:45 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:15:46 PM:  ShowStatusInfo: 'Ready'
+[4] 06:15:49 PM:  ShowStatusInfo: 'Saving ...'
+[3] 06:15:49 PM:  Save started!
+[3] 06:15:49 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 06:15:49 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 06:15:49 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 06:15:49 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 06:15:49 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 06:15:49 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 06:15:49 PM:  Save finished!
+[4] 06:15:49 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 06:15:49 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:01 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:16:01 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:02 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:16:02 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:04 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:16:04 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:05 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:16:05 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:06 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:16:06 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:07 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:16:08 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:08 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:16:08 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:17 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:16:19 PM:  ShowStatusInfo: 'Ready'
+[3] 06:16:25 PM: Task 'Create Reusable TestStepBlock with business parameters' started on '/TestCases/In4Suite Expenses/Expenses ERP/PreCondition'
+[4] 06:16:25 PM:  ShowStatusInfo: 'Create Reusable TestStepBlock with business parameters'
+[4] 06:16:25 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:25 PM:  ShowStatusInfo: 'Reusable TestStepBlock with business parameters finalizing ... '
+[4] 06:16:25 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:16:25 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:25 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:16:25 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:16:25 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:25 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:16:25 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:16:25 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:16:25 PM:  ShowStatusInfo: 'Reusable TestStepBlock with business parameters finished'
+[3] 06:16:25 PM: Task 'Create Reusable TestStepBlock with business parameters' finished
+[4] 06:16:25 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:28 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:16:28 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:29 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:16:29 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:16:29 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:16:29 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:29 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:16:29 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:16:29 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:16:31 PM:  ShowStatusInfo: 'Saving ...'
+[3] 06:16:31 PM:  Save started!
+[3] 06:16:31 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 06:16:31 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 06:16:31 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 06:16:31 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 06:16:31 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 06:16:31 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 06:16:31 PM:  Save finished!
+[4] 06:16:31 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 06:16:31 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:39 PM:  ShowStatusInfo: ''
+[4] 06:16:39 PM:  ShowStatusInfo: 'Move'
+[4] 06:16:39 PM:  ShowStatusInfo: 'Create TestCase from TestCaseItem'
+[4] 06:16:40 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:40 PM:  ShowStatusInfo: 'Create TestCase from TestCaseItem finalizing ... '
+[4] 06:16:40 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:16:40 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:40 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:16:40 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:16:40 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:40 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:16:40 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:16:40 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:16:40 PM:  ShowStatusInfo: 'Create TestCase from TestCaseItem finished'
+[3] 06:16:40 PM: Task 'Create TestCase from TestCaseItem' finished
+[4] 06:16:40 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:16:40 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:40 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:16:40 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:16:40 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:40 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:16:40 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:16:40 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 06:16:43 PM: Perform Undo(Create TestCase from TestCaseItem)
+[4] 06:16:43 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:16:43 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:43 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:16:43 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:16:43 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:43 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:16:43 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:16:43 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:16:45 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:16:45 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:46 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:16:46 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:47 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:16:47 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:47 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:16:47 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:16:47 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:47 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:16:47 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:16:47 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:16:49 PM:  ShowStatusInfo: 'Saving ...'
+[3] 06:16:49 PM:  Save started!
+[3] 06:16:49 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 06:16:49 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 06:16:49 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 06:16:49 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 06:16:49 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 06:16:49 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 06:16:50 PM:  Save finished!
+[4] 06:16:50 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 06:16:50 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:52 PM:  ShowStatusInfo: ''
+[4] 06:16:52 PM:  ShowStatusInfo: 'Move'
+[4] 06:16:52 PM:  ShowStatusInfo: 'Create TestCase from TestCaseItem'
+[4] 06:16:53 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:53 PM:  ShowStatusInfo: 'Create TestCase from TestCaseItem finalizing ... '
+[4] 06:16:53 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:16:53 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:53 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:16:53 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:16:53 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:53 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:16:53 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:16:53 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:16:53 PM:  ShowStatusInfo: 'Create TestCase from TestCaseItem finished'
+[3] 06:16:53 PM: Task 'Create TestCase from TestCaseItem' finished
+[4] 06:16:53 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:16:53 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:53 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:16:53 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:16:53 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:53 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:16:53 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:16:53 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:16:55 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:16:55 PM:  ShowStatusInfo: 'Ready'
+[3] 06:16:58 PM: Perform Undo(Create TestCase from TestCaseItem)
+[4] 06:16:58 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:16:58 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:58 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:16:58 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:16:59 PM:  ShowStatusInfo: 'Ready'
+[4] 06:16:59 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:16:59 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:16:59 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:16:59 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:20 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:17:20 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:20 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:17:20 PM:  ShowStatusInfo: 'Ready'
+[3] 06:17:30 PM: Task 'Create Folder (after this)' started on '/TestCases/In4Suite Expenses/Expenses ERP/PreCondition'
+[4] 06:17:30 PM:  ShowStatusInfo: 'Create Folder (after this)'
+[4] 06:17:30 PM:  ShowStatusInfo: 'Folder (after this) finalizing ... '
+[4] 06:17:30 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:17:30 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:30 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:17:30 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:17:30 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:30 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:17:30 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:17:30 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:17:30 PM:  ShowStatusInfo: 'Folder (after this) finished'
+[3] 06:17:30 PM: Task 'Create Folder (after this)' finished
+[4] 06:17:30 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:34 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:17:35 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:35 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:17:35 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:37 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:17:37 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:37 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:17:37 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:17:37 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:37 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:17:37 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:17:37 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:17:38 PM:  ShowStatusInfo: 'Saving ...'
+[3] 06:17:38 PM:  Save started!
+[3] 06:17:38 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 06:17:38 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 06:17:38 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 06:17:38 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 06:17:38 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 06:17:38 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 06:17:38 PM:  Save finished!
+[4] 06:17:38 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 06:17:38 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:43 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:17:43 PM:  ShowStatusInfo: 'Ready'
+[3] 06:17:45 PM: Task 'Create Folder' started on '/TestCases/In4Suite Expenses/Expenses ERP'
+[4] 06:17:45 PM:  ShowStatusInfo: 'Create Folder'
+[4] 06:17:45 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:45 PM:  ShowStatusInfo: 'Folder finalizing ... '
+[4] 06:17:45 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:17:45 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:45 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:17:45 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:17:45 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:45 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:17:45 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:17:45 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:17:45 PM:  ShowStatusInfo: 'Folder finished'
+[3] 06:17:45 PM: Task 'Create Folder' finished
+[4] 06:17:45 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:48 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:17:49 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:49 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:17:49 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:51 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 06:17:51 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:51 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:17:51 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 06:17:51 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:51 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:17:51 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 06:17:51 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 06:17:52 PM:  ShowStatusInfo: 'Saving ...'
+[3] 06:17:52 PM:  Save started!
+[3] 06:17:52 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 06:17:52 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 06:17:52 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 06:17:52 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 06:17:52 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 06:17:52 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 06:17:52 PM:  Save finished!
+[4] 06:17:52 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 06:17:53 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:53 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 06:17:53 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:53 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 06:17:53 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:53 PM:  ShowStatusInfo: 'Refresh view finished'
+[4] 06:17:56 PM:  ShowStatusInfo: 'Ready'
+[4] 06:17:56 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:17:59 PM:  ShowStatusInfo: 'Ready'
+[4] 06:18:04 PM:  ShowStatusInfo: 'Saving ...'
+[3] 06:18:04 PM:  Save started!
+[3] 06:18:04 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 06:18:04 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 06:18:04 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 06:18:04 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 06:18:04 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 06:18:04 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 06:18:04 PM:  Save finished!
+[4] 06:18:04 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 06:18:04 PM:  ShowStatusInfo: 'Ready'
+[4] 06:18:05 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:18:06 PM:  ShowStatusInfo: 'Ready'
+[4] 06:18:06 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:18:06 PM:  ShowStatusInfo: 'Ready'
+[4] 06:18:10 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:18:11 PM:  ShowStatusInfo: 'Ready'
+[4] 06:18:25 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:18:25 PM:  ShowStatusInfo: 'Ready'
+[4] 06:18:35 PM:  ShowStatusInfo: 'Saving ...'
+[3] 06:18:35 PM:  Save started!
+[3] 06:18:35 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 06:18:35 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 06:18:35 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 06:18:35 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 06:18:35 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 06:18:35 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 06:18:35 PM:  Save finished!
+[4] 06:18:35 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 06:18:35 PM:  ShowStatusInfo: 'Ready'
+[4] 06:19:00 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:19:05 PM:  ShowStatusInfo: 'Ready'
+[4] 06:19:06 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:19:06 PM:  ShowStatusInfo: 'Ready'
+[4] 06:19:08 PM:  ShowStatusInfo: '1 object selected'
+[4] 06:19:09 PM:  ShowStatusInfo: 'Saving ...'
+[3] 06:19:09 PM:  Save started!
+[3] 06:19:09 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 06:19:09 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 06:19:09 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 06:19:09 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 06:19:09 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 06:19:09 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 06:19:09 PM:  Save finished!
+[4] 06:19:09 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 06:19:10 PM:  ShowStatusInfo: 'Ready'
+[3] 06:19:25 PM: Closing Workspace!
+[3] 06:19:25 PM: Log closed!

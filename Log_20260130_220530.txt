@@ -1,0 +1,65 @@
+[3] 10:05:30 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\In4Suite Expenses\In4Suite Expenses.tws'
+[3] 10:05:30 PM: Log level: 4
+[3] 10:05:30 PM: Release: 16.0.0.3027
+[3] 10:05:32 PM: Execution Approval is disabled.
+[3] 10:05:32 PM: No service discovery configured.
+[3] 10:05:32 PM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 10:05:32 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 10:05:32 PM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 10:05:32 PM:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 10:05:32 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 10:05:32 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 10:05:32 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 10:05:32 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 10:05:32 PM: Searcher found 0 results in 201.0492 ms
+[3] 10:05:32 PM:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 10:05:32 PM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 10:05:32 PM:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 10:05:32 PM:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 10:05:32 PM:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 10:05:32 PM:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 10:05:32 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 10:05:32 PM:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 10:05:32 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 10:05:33 PM:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 10:05:33 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 10:05:33 PM:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 10:05:33 PM:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 10:05:33 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\In4Suite Expenses\In4Suite Expenses.tws'
+[4] 10:05:44 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 10:05:44 PM:  ShowStatusInfo: 'Ready'
+[4] 10:05:44 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 10:05:44 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 10:05:44 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 10:05:44 PM:  ShowStatusInfo: 'Ready'
+[4] 10:05:44 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 10:05:44 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 10:05:44 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:05:44 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Ready'
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Ready'
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Ready'
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Ready'
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:05:45 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 10:05:46 PM: OpenWorkspace took 00:02:57.5036796 to finish
+[2] 10:05:46 PM: Common repository is not available
+[4] 10:05:50 PM:  ShowStatusInfo: 'Ready'
+[3] 10:06:51 PM: Closing Workspace!
+[3] 10:06:51 PM: Log closed!

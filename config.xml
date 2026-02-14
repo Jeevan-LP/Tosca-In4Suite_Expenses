@@ -1,13 +1,16 @@
-<Configuration>
-<Workspace>
-<WorkspacePath>C:\Jenkins\workspace\ToscaJob\In4Suite Expenses.tws</WorkspacePath>
-<UserName>Admin</UserName>
-<Password>Admin</Password>
-</Workspace>
-<Execution>
-<ExecutionList>In4Suite Expenses\In4Suite Expenses ExecutionLists\Expenses</ExecutionList>
-</Execution>
-<Result>
-<ResultFile>C:\ToscaResults\result.xml</ResultFile>
-</Result>
-</Configuration>
+<?xml version="1.0" encoding="utf-8"?>
+<TestConfigurationRootNode>
+  <WorkspaceConfiguration>
+    <WorkspacePath>%WORKSPACE%\In4Suite Expenses.tws</WorkspacePath>
+    <UserName>Admin</UserName>
+    <Password>Admin</Password>
+  </WorkspaceConfiguration>
+
+  <ExecutionListConfiguration>
+    <ExecutionList>In4Suite Expenses\In4Suite Expenses ExecutionLists\Expenses</ExecutionList>
+  </ExecutionListConfiguration>
+
+  <ResultConfiguration>
+    <ResultFile>%WORKSPACE%\ToscaResults\result.xml</ResultFile>
+  </ResultConfiguration>
+</TestConfigurationRootNode>
